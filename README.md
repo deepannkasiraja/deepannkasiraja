@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Deepan Kasiraja 👋
 
-<!--
-**deepannkasiraja/deepannkasiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | AI Enthusiast | MCA Integrated Student
 
-Here are some ideas to get you started:
+I'm **Deepan Kasiraja**, an 18-year-old technology enthusiast from **Dhar, Madhya Pradesh, India**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing **MCA Integrated** at **IIPS, DAVV (Devi Ahilya Vishwavidyalaya)**. I'm passionate about software development, problem-solving, and exploring the rapidly evolving world of **Artificial Intelligence**.
+My goal is to continuously improve my technical skills and become a **Software Engineer / AI Engineer** in the coming years.
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Pursuing **MCA Integrated** at **IIPS, DAVV**
+- 📍 From **Dhar, Madhya Pradesh, India**
+- 🎂 Born on **21 April 2008**
+- 💻 Interested in **Software Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🚀 Aspiring to become a **Software Engineer / AI Engineer**
+- 📚 Always learning and building new things
+- 🌱 Currently focused on improving my programming and development skills
+
+---
+
+## 🎯 My Goals
+Learn → Build → Experiment → Improve → Repeat
