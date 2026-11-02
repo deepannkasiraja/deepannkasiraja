@@ -21,6 +21,25 @@ Hi! I'm **Deepan Kasiraja**, a first-semester Integrated MCA student at **Intern
 - 🎯 Always curious to learn something new.
 
 ---
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/limatdz7pg/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepan-kasiraja-b2a43142b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_HACKERRANK_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://leetcode.com/u/deepan-kasiraja/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
 
 ## 🛠️ Tech & Learning
 
@@ -43,22 +62,7 @@ Hi! I'm **Deepan Kasiraja**, a first-semester Integrated MCA student at **Intern
 
 ---
 
-## 💻 Coding Profiles
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/limatdz7pg/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/deepan-kasiraja-b2a43142b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_HACKERRANK_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://leetcode.com/u/deepan-kasiraja/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 ---
 
