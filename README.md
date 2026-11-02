@@ -77,11 +77,11 @@ Hi! I'm **Deepan Kasiraja**, a first-semester Integrated MCA student at **Intern
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepannkasiraja&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=deepannkasiraja&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,47 +89,16 @@ Hi! I'm **Deepan Kasiraja**, a first-semester Integrated MCA student at **Intern
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=deepannkasiraja&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🐍 My Contribution Snake
-.github/workflows/snake.yml
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/deepannkasiraja/deepannkasiraja/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
@@ -137,7 +106,7 @@ jobs:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/deepannkasiraja">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/deepannkasiraja/">
