@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Deepan Kasiraja
-<img width="180" height="180" alt="IMG_2507" src="https://github.com/user-attachments/assets/10162f30-004f-43eb-9747-7744119c6589" />
+<img width="160" height="160" alt="IMG_2507" src="https://github.com/user-attachments/assets/10162f30-004f-43eb-9747-7744119c6589" />
 
 
 <h3 align="center">🎓 Integrated MCA Student | 💻 Aspiring Developer | 🚀 Future Tech Professional</h3>
