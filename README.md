@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Deepan Kasiraja
-<h3 align="center"><img width="180"  alt="IMG_2507" src="https://github.com/user-attachments/assets/10162f30-004f-43eb-9747-7744119c6589" />
+<h3 align="center"><img width="180" height="200" alt="IMG_2507" src="https://github.com/user-attachments/assets/10162f30-004f-43eb-9747-7744119c6589" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:00C6FF&height=170&section=header&text=Deepan%20Kasiraja&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Deepan Kasiraja" />
 </p>
