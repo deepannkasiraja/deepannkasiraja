@@ -98,9 +98,8 @@ Hi! I'm **Deepan Kasiraja**, a first-semester Integrated MCA student at **Intern
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepannkasiraja/deepannkasiraja/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
